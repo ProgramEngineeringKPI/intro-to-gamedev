@@ -18,6 +18,7 @@
 
 ## Що треба робити?
 
+[Завдання тут](assignments.md)
 
 ## Welcome to GitHub Pages
 
