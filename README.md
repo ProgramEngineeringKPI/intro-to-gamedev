@@ -1,4 +1,4 @@
-![Image](https://cdn.pixabay.com/photo/2015/11/08/00/36/video-game-1032939_960_720.png)
+![Image](https://d30y9cdsu7xlg0.cloudfront.net/png/3473-200.png)
 
 ## Про що мова?
 
