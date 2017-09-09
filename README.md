@@ -1,5 +1,3 @@
-![Image](https://d30y9cdsu7xlg0.cloudfront.net/png/3473-200.png)
-
 ## Про що мова?
 
 Відкритий курс "Розробки Ігрових застосувань" - говоримо про геймдев в цілому, вивчаємо Unity, вчимося робити ігри
@@ -25,3 +23,5 @@
 ## Що там з балами?
 
 [Всі бали тут](https://docs.google.com/spreadsheets/d/1LZcNAp4LgM5V91TTMp64yryFIP4h-O6_o4bo9-Qeyy4/edit?usp=sharing)
+
+![Image](https://d30y9cdsu7xlg0.cloudfront.net/png/3473-200.png)
