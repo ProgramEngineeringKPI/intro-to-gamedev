@@ -5,7 +5,7 @@
 ### Список лекцій:
 
 1. [Вступне заняття](lectures/Intro_(8.09.2017))
-2. [Необхідна математика для розробників](lectures/Essential_Math(15.09))
+2. Необхідна математика для розробників [Відео](https://www.youtube.com/watch?v=qWcC8lP65-M), [Слайди](https://www.slideshare.net/secret/yqW4okjZ79LWIB)
 2. Що повинен знати програміст-розробник ігор? [Відео](https://www.youtube.com/watch?v=uz8OneJ3FzY), [Слайди](https://www.slideshare.net/secret/aa5P08BM49VgPo)
 
 ## Для кого курс?
